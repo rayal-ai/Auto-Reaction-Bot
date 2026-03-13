@@ -1,6 +1,6 @@
 export const startMessage = `👋 Hello there, UserName !
 
-Welcome to the *Auto Emoji Reaction Bot 🎉*, ready to sprinkle your conversations with a little extra happiness!
+Welcome to the *Quick Reaction Bot 🎉*, ready to sprinkle your conversations with a little extra happiness!
 
 💁‍♂️ Here's how I spice up your chats:
 
@@ -11,7 +11,9 @@ Welcome to the *Auto Emoji Reaction Bot 🎉*, ready to sprinkle your conversati
 
 Let's elevate our conversations with more energy and color! 🚀
 
-💖 Keep us running! Support the bot: /donate`
+💖 Keep us running! Support the bot: /donate
+
+*Made and Maintained by : @RoyalityBots`
 
 export const donateMessage = `🙏 Support Auto Reaction Bot ✨ and help us stay online and continue to improve! ✨ Your donations keep our services live and enable us to bring you new features and enhancements. Every star makes a difference! Thank you! 🌟🚀`
 
