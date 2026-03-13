@@ -15,7 +15,7 @@ Let's elevate our conversations with more energy and color! 🚀
 
 *Made and Maintained by : @RoyalityBots`
 
-export const donateMessage = `🙏 Support Auto Reaction Bot ✨ and help us stay online and continue to improve! ✨ Your donations keep our services live and enable us to bring you new features and enhancements. Every star makes a difference! Thank you! 🌟🚀`
+export const donateMessage = `🙏 Support Quick Reaction Bot ✨ and help us stay online and continue to improve! ✨ Your donations keep our services live and enable us to bring you new features and enhancements. Every star makes a difference! Thank you! 🌟🚀`
 
 export const htmlContent = `
 <!DOCTYPE html>
